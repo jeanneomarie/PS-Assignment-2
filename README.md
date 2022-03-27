@@ -41,7 +41,7 @@ Bonus requirements:
 
 | Requirement                                                | Points |
 |------------------------------------------------------------|--------|
-| Prepare and present mockups (picture / wireframe / paper) (can use https://marvelapp.com/)   | 1.0    |
+| Prepare and present mockups (picture / wireframe / paper) using for example https://marvelapp.com/)   | 1.0    |
 | Use Redux for holding the state                            | 2.0    |
-| Use a CSS library (e.g. Bulma, Bootstrap) for styling*     | 1.0    |
+| Use a CSS library (e.g. Bulma, Bootstrap) for styling     | 1.0    |
 | Write [component tests](https://facebook.github.io/create-react-app/docs/running-tests#option-2-react-testing-library) for your views | 1.0    | 
